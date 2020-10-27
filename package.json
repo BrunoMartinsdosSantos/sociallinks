@@ -1,0 +1,18 @@
+{
+  "name": "sociallink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.5.5",
+    "prismic-javascript": "^3.0.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "tailwindcss": "^1.9.6"
+  },
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  }
+}
